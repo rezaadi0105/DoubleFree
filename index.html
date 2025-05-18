@@ -94,6 +94,15 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
         <script src="js/remote-logger.js"></script>
         <script src="js/payload-manager.js"></script>
         <script src="js/ui.js"></script>
+        <script>
+            if (window.applicationCache.status=='0'){window.location.replace("cache.html");}
+            function load_mainmenu(){
+            var link = document.createElement('a');
+            document.body.appendChild(link);
+            link.href = '../index.html';
+            link.click();
+            }
+        </script>
         <script src="payload.js"></script>
         <script>
             // Inisialisasi Remote Logger
