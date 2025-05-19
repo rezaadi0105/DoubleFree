@@ -8,8 +8,8 @@ body {
     font-family: 'Liberation Mono', monospace;
     margin: 0;
     padding: 20px;
-    background-color: #0d1117;
-    color: #e6edf3;
+    background-color: #370468;
+    color: #5b2c6f;
 }
 
 .container {
@@ -35,22 +35,22 @@ body {
 }
 
 .card {
-    background-color: #161b22;
+    background-color: #20012e;
     border-radius: 6px;
     padding: 15px;
     margin-bottom: 20px;
-    border: 1px solid #30363d;
+    border: 1px solid #59276e;
 }
 
 .card-title {
     margin-top: 0;
     color: #58a6ff;
-    border-bottom: 1px solid #30363d;
+    border-bottom: 1px solid #5c070f;
     padding-bottom: 10px;
 }
 
 .btn {
-    background-color: #238636;
+    background-color: #5b194a;
     color: white;
     border: none;
     padding: 8px 16px;
