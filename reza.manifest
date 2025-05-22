@@ -3,6 +3,7 @@ CACHE MANIFEST
 
 CACHE: 
 BG.jpg
+alert.js
 config.js
 goldhen.bin
 index.html
@@ -11,7 +12,7 @@ lndex.html
 loader.js
 psfree.js
 send.js
-kpatch\900.bin
+kpatch\900.elf
 module\chain.js
 module\constants.js
 module\int64.js
